@@ -1,0 +1,9 @@
+# ejecutables y builds
+bin/
+build/
+cmake-build-*/
+*.dSYM/
+
+# IDEs
+.idea/
+.DS_Store
